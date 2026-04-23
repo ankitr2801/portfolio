@@ -44,7 +44,7 @@ export function Project() {
               <ul className="tech-list">
                 <li>Asp.net</li>
                 <li>SQL</li>
-        
+    
                 <li>JavaScript</li>
                 <li>Bootstrap</li>
               </ul>
